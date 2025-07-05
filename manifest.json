@@ -2,12 +2,12 @@
   "name": "Ciccio - Task AI Agent",
   "short_name": "Ciccio",
   "description": "Your personal task manager with voice input and smart reminders",
-  "start_url": "/",
+  "start_url": "https://xloeqdsx.manus.space/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#4facfe",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "https://xloeqdsx.manus.space/",
   "lang": "en",
   "categories": ["productivity", "utilities"],
   "icons": [
@@ -37,7 +37,7 @@
       "name": "Add Task",
       "short_name": "Add",
       "description": "Quickly add a new task",
-      "url": "/?action=add",
+      "url": "https://xloeqdsx.manus.space/?action=add",
       "icons": [
         {
           "src": "icon-192.png",
@@ -47,4 +47,3 @@
     }
   ]
 }
-
